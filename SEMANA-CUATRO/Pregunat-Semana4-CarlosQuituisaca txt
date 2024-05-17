@@ -1,0 +1,63 @@
+¿Qué significa CRUD en el contexto del desarrollo de aplicaciones?
+a) Crear, Recibir, Utilizar, Descartar
+b) Crear, Leer, Utilizar, Descargar
+c) Crear, Leer, Actualizar, Borrar
+d) Conectar, Reemplazar, Usar, Desplegar
+ANSWER:  c
+
+
+En una aplicación utilizando Django ORM, ¿cómo se crea un nuevo registro en la base de datos?
+a) new_record = MyModel.new()
+b) new_record = MyModel.create(name="Example")
+c) new_record = MyModel(name="Example").save()
+d) new_record = MyModel(name="Example")
+ANSWER:  c
+
+
+¿Cuál de las siguientes consultas en SQLAlchemy se utiliza para leer todos los registros de una tabla llamada User?
+a) session.query(User).all()
+b) session.read(User).all()
+c) User.query.read()
+d) User.session().all()
+ANSWER:  a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
