@@ -1,0 +1,26 @@
+1. ¿Cuál es el propósito principal del decorador @Output en Angular?
+
+A. Permitir que un componente hijo envíe datos al componente padre
+B. Permitir que un componente padre envíe datos al componente hijo
+C. Permitir la comunicación entre componentes hermanos
+D. Manipular el DOM directamente
+
+ANSWER: A.
+
+2. ¿Qué función de Angular se usa para acceder a un componente hijo desde el componente padre?
+
+A. @Output()
+B. @Input()
+C. @ViewChild()
+D. @ContentChild()
+
+ANSWER: C.
+
+3. ¿Cuál de los siguientes métodos es adecuado para actualizar un servicio compartido que mantiene el estado entre componentes?
+
+A. Usar un BehaviorSubject
+B. Usar una Promesa
+C. Usar una directiva
+D. Usar @Output
+
+ANSWER: A. 
