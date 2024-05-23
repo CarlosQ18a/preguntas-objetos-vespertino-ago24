@@ -1,0 +1,36 @@
+¿Cuál de las siguientes herramientas es una plataforma de integración continua que se utiliza comúnmente para automatizar el despliegue?
+a) Jenkins
+b) MySQL
+c) Postman
+d) Illustrator
+ANSWER : a 
+
+
+¿Cuál es el propósito de un archivo Dockerfile en el contexto de despliegue de contenedores?
+a) Almacenar los datos de la aplicación.
+b) Definir el entorno y las instrucciones para crear una imagen de Docker que puede ser ejecutada en un contenedor.
+c) Configurar las reglas del firewall para la aplicación.
+d) Definir los permisos de los usuarios para acceder a la aplicación.
+ANSWER : b
+
+
+En el contexto de Kubernetes, ¿qué es un "Pod"?
+a) Un archivo de configuración.
+b) El componente más pequeño y simple de Kubernetes que puede crear y gestionar, representando una instancia de una aplicación.
+c) Una colección de servicios de red.
+d) Una base de datos distribuida.
+ANSWER : b 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

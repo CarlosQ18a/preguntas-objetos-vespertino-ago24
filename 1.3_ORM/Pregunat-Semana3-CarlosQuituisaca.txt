@@ -1,0 +1,22 @@
+¿Qué es un ORM (Object-Relational Mapping)?
+a) Una técnica para optimizar consultas SQL.
+b) Un método para interactuar con bases de datos usando objetos en lugar de consultas SQL directas.
+c) Un tipo de base de datos NoSQL.
+d) Un sistema de gestión de bases de datos.
+ANSWER: B
+
+
+¿Cuál es una ventaja principal de usar literales en las consultas ORM?
+a) Mejora el rendimiento de la base de datos.
+b) Reduce el uso de memoria en el servidor.
+c) Previene inyecciones SQL.
+d) Aumenta la complejidad del código.
+ANSWER: C
+
+
+En SQLAlchemy, ¿cómo puedes utilizar un literal en una consulta para seleccionar registros donde la columna status es igual a 'active'?
+a) select(MyTable).where(MyTable.status == 'active')
+b) select(MyTable).where(MyTable.status == bind('active'))
+c) select(MyTable).where(MyTable.status == text('active'))
+d) select(MyTable).where(MyTable.status == literal('active'))
+ANSWER:D
